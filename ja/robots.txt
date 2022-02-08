@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /fancybox/
+Disallow: /tag/
+Disallow: /tags/
+Disallow: /category/
+Disallow: /online_window/
+Sitemap: https://laptrinhcanban.com/sitemap.xml
