@@ -1673,7 +1673,7 @@ pre .javascript .function {
   font-size: 1em;
   line-height: 1.2;
   color: #df3a01;
-  font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif, Oswald, "Microsoft Yahei";
 }
 .widget_athemes_tabs .widget ul li a:hover {
   color: #1fa0ae;
@@ -2301,4 +2301,7 @@ icon-bar-2 {
 }
 .widget-wrap {
   width: 300px;
+}
+.widget-entry-summary {
+  font-family: 'Helvetica', 'Arial', 'Consolas', '游ゴシック', 'Hiragino Sans', 'Helvetica', 'メイリオ', 'sans-serif' !important;
 }

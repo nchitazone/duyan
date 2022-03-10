@@ -1664,7 +1664,7 @@ pre .javascript .function {
   font-size: 1em;
   line-height: 1.2;
   color: #df3a01;
-  font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
+  font-family: Helvetica, Oswald, "Microsoft Yahei", Arial, sans-serif;
 }
 .widget_athemes_tabs .widget ul li a:hover {
   color: #1fa0ae;
