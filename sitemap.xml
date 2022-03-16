@@ -3,6 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
+    
+    <lastmod>2022-03-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/vector-trong-cpp/xoa-phan-tu-trong-vector-cpp/</loc>
     <xhtml:link
        rel="alternate"
@@ -8116,29 +8139,6 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/java/java-co-ban-cho-nguoi-moi-bat-dau/vong-lap-trong-java/do-while-trong-java/"/>
-    
-    <lastmod>2021-11-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/vong-lap-trong-c/for-trong-c/"/>
     
     <lastmod>2021-11-06</lastmod>
     
@@ -20452,7 +20452,7 @@
 
   <url>
     <loc>https://laptrinhcanban.com/</loc>
-    <lastmod>2022-03-10</lastmod>
+    <lastmod>2022-03-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
