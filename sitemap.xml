@@ -3,29 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/"/>
-    
-    <lastmod>2022-06-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
@@ -44,7 +21,306 @@
        hreflang="x-default"
        href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/"/>
     
-    <lastmod>2022-06-17</lastmod>
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbytagname-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbytagname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbytagname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbytagname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbytagname-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbyname-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbyname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbyname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbyname-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/getelementsbyname-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/nextsibling-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/nextsibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/nextsibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/nextsibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/nextsibling-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/previoussibling-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/previoussibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/previoussibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/previoussibling-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/previoussibling-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/parentnode-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/parentnode-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/parentnode-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/parentnode-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/parentnode-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselectorall-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselectorall-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselectorall-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselectorall-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselectorall-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselector-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselector-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselector-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselector-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/queryselector-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/su-khac-biet-giua-dom-node-va-element-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/su-khac-biet-giua-dom-node-va-element-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/su-khac-biet-giua-dom-node-va-element-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/su-khac-biet-giua-dom-node-va-element-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/su-khac-biet-giua-dom-node-va-element-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/firstchild-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/firstchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/firstchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/firstchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/firstchild-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/lastchild-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/lastchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/lastchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/lastchild-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/lastchild-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/childnodes-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/childnodes-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/childnodes-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/childnodes-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/childnodes-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/css-selectors-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/css-selectors-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/css-selectors-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/css-selectors-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/dom-trong-javascript/css-selectors-trong-javascript/"/>
+    
+    <lastmod>2022-06-20</lastmod>
     
   </url>
   
@@ -20636,7 +20912,7 @@
 
   <url>
     <loc>https://laptrinhcanban.com/</loc>
-    <lastmod>2022-06-17</lastmod>
+    <lastmod>2022-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
