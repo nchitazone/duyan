@@ -1,6 +1,4 @@
 google.com, pub-3861801553502992, DIRECT, f08c47fec0942fa0
-mgid.com, 641384, DIRECT, d4c29acad76ce94f
-
 ezoic.com, e83726c9da4ef068e5d51e89ddaecc35, DIRECT
 districtm.io, 100604, DIRECT
 appnexus.com, 1908, RESELLER
