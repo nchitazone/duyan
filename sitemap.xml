@@ -49,46 +49,184 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/</loc>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-beforeunload-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-beforeunload-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-beforeunload-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-beforeunload-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-beforeunload-trong-javascript/"/>
     
     <lastmod>2022-06-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/</loc>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-scroll-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-scroll-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-scroll-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-scroll-trong-javascript/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-scroll-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-resize-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-resize-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-resize-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-resize-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-resize-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-load-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-load-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-load-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-load-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-load-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseevent-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseevent-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyup-va-keydown-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyup-va-keydown-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyup-va-keydown-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyup-va-keydown-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyup-va-keydown-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyboardevent-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyboardevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyboardevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyboardevent-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/keyboardevent-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-keypress-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-keypress-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-keypress-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-keypress-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-keypress-trong-javascript/"/>
     
     <lastmod>2022-06-25</lastmod>
     
@@ -118,6 +256,121 @@
   </url>
   
   <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/copy-cut-va-paste-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/copy-cut-va-paste-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/copy-cut-va-paste-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/copy-cut-va-paste-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/copy-cut-va-paste-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mouseover-va-mouseout-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-change-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-change-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-change-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-change-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-change-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-click-trong-javascript/</loc>
     <xhtml:link
        rel="alternate"
@@ -135,6 +388,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-click-trong-javascript/"/>
+    
+    <lastmod>2022-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-input-trong-javascript/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-input-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-input-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-input-trong-javascript/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-input-trong-javascript/"/>
     
     <lastmod>2022-06-25</lastmod>
     
@@ -164,46 +440,23 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/</loc>
+    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
+       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/mousedown-mouseup-trong-javascript/"/>
-    
-    <lastmod>2022-06-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-kien-mousemove-trong-javascript/"/>
+       href="https://laptrinhcanban.com/javascript/javascript-co-ban-den-nang-cao/su-kien-trong-javascript/su-khac-biet-giua-mouseenter-va-mouseover-mouseleave-va-mouseout/"/>
     
     <lastmod>2022-06-25</lastmod>
     
